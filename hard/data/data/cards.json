@@ -1,0 +1,50 @@
+[
+    {
+        "image": "../assets/_1.png",
+        "name": "deci"
+    },
+    {
+        "image": "../assets/_2.png",
+        "name": "centi"
+    },
+    {
+        "image": "../assets/_3.png",
+        "name": "milli"
+    },
+    {
+        "image": "../assets/1.png",
+        "name": "deca"
+    },
+    {
+        "image": "../assets/2.png",
+        "name": "hecto"
+    },
+    {
+        "image": "../assets/3.png",
+        "name": "kilo"
+    },
+    {
+        "image": "../assets/deci.png",
+        "name": "deci"
+    },
+    {
+        "image": "../assets/centi.png",
+        "name": "centi"
+    },
+    {
+        "image": "../assets/milli.png",
+        "name": "milli"
+    },
+    {
+        "image": "../assets/deca.png",
+        "name": "deca"
+    },
+    {
+        "image": "../assets/hecto.png",
+        "name": "hecto"
+    },
+    {
+        "image": "../assets/kilo.png",
+        "name": "kilo"
+    }
+]
