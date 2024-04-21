@@ -1,0 +1,50 @@
+[
+    {
+        "image": "../assets2/_6.png",
+        "name": "micro"
+    },
+    {
+        "image": "../assets2/_9.png",
+        "name": "nano"
+    },
+    {
+        "image": "../assets2/_12.png",
+        "name": "pico"
+    },
+    {
+        "image": "../assets2/6.png",
+        "name": "mega"
+    },
+    {
+        "image": "../assets2/9.png",
+        "name": "giga"
+    },
+    {
+        "image": "../assets2/12.png",
+        "name": "tera"
+    },
+    {
+        "image": "../assets2/micro.png",
+        "name": "micro"
+    },
+    {
+        "image": "../assets2/nano.png",
+        "name": "nano"
+    },
+    {
+        "image": "../assets2/pico.png",
+        "name": "pico"
+    },
+    {
+        "image": "../assets2/mega.png",
+        "name": "mega"
+    },
+    {
+        "image": "../assets2/giga.png",
+        "name": "giga"
+    },
+    {
+        "image": "../assets2/tera.png",
+        "name": "tera"
+    }
+]
